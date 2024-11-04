@@ -1,5 +1,11 @@
 html {
-  background: #ff785a;
+  background: rgb(12, 10, 13);
+  background: linear-gradient(
+    328deg,
+    rgba(12, 10, 13, 1) 0%,
+    rgba(88, 3, 101, 1) 51%,
+    rgb(255, 0, 0) 100%
+  );
 }
 
 /* Bonus */
